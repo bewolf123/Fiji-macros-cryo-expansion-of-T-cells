@@ -1,5 +1,6 @@
 # Fiji-macros-cryo-expansion-of-T-cells
-Fiji/ImageJ macros to analyze cryo-expanded T cell image-stacks in 3D
+Fiji/ImageJ macros to analyze cryo-expanded T cell image-stacks in 3D, by Florent Lemaitre
+
 Summary
 
 The Fiji macros were designed to analyse immune synapses features and lytic granule shape and fluorescent intensity. All Fiji macros were written to work with .lif files obtained with a widefield Leica DMi8 thunder microscope. The macros were made to work on the denoised images (Lng_LVCC or Lng_SVCC). When indicated, it can be necessary to use a first macros to facilitate the use of another. All tables are automatically saved in newly created folders where the original image file is located. The file and folder names must remain as registered to not introduce macros’ errors. 
